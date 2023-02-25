@@ -2,7 +2,7 @@
 
 ## Home Instagram!
 
-Nesse projeto o objetivo foi trabalha e aplicar as funções mais utilizadas do HTML e CSS, com a aplicação de aprendizado, conhecimento e prática. Como todo desenvolvedor tem o habito de copiar páginas web, decidir fazer um “Clone da Home do Instagram para fins de aprendizado.
+Nesse projeto o objetivo foi trabalha e aplicar as funções mais utilizadas do HTML e CSS, com a aplicação de aprendizado, conhecimento e prática. Como todo desenvolvedor tem o habito de copiar páginas web, decidir fazer um "Clone da Home do Instagram" para fins de aprendizado.
 
 Uma Home Page com várias imagens como icon (favicon), vários inputs e links clicáveis. Temos também a responsividades para aparelhos móveis (Mobile).
 

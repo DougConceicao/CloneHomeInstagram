@@ -6,7 +6,7 @@ Nesse projeto o objetivo foi trabalha e aplicar as funções mais utilizadas do 
 
 Uma Home Page com várias imagens como icon (favicon), vários inputs e links clicáveis. Temos também a responsividades para aparelhos móveis (Mobile).
 
-Veja você mesmo: clone-home-instagram-mwp7gxa5v-dougconceicao.vercel.app
+Veja você mesmo: https://clone-home-instagram.vercel.app
 
 
 ---
